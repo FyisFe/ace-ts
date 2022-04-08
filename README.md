@@ -2,4 +2,4 @@
 
 Notes of reading TypeScript official document
 
-- ✅ [Everyday Types](./EverydayTypes)
+- ✅ [Everyday Types](./everydayTypes)

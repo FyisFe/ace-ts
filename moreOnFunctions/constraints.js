@@ -6,7 +6,7 @@ function longest(a, b) {
 }
 var longestNum = longest([1, 2], [1, 2, 3]);
 var longestString = longest('123', '1');
-var error = longest(1, 2);
+// const error = longest(1, 2) // error
 function minimumLength(obj, minimum) {
     if (obj.length >= minimum) {
         return obj;
